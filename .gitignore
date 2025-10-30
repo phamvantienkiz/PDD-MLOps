@@ -301,3 +301,9 @@ poetry.toml
 pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks,pydev,pycharm
+
+# user config
+.idea/
+data/train/
+data/test/
+data/valid/
