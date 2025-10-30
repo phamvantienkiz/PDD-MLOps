@@ -1,4 +1,5 @@
-mlops-yolo11/
+```
+PDD-MLOps/
 │
 ├── data/ # Dữ liệu huấn luyện, có thể dùng DVC sau
 │
@@ -43,3 +44,4 @@ mlops-yolo11/
 └── .github/
 └── workflows/
 └── ci.yml # Pytest + build check
+```
